@@ -1,0 +1,6 @@
+Order_ID,Customer_Name,Product,Category,Quantity,Price,Sales,Region,Order_Date
+1001,John,Laptop,Electronics,2.0,50000.0,100000.0,North,2025-01-05
+1002,Alice,Phone,Electronics,1.0,30000.0,30000.0,South,2025-01-06
+1003,John,Laptop,Electronics,2.0,50000.0,100000.0,North,2025-01-05
+1004,Mark,Chair,Furniture,2.0,5000.0,10000.0,East,2025-01-08
+1005,Emma,Table,Furniture,3.0,33750.0,101250.0,West,2025-01-10
